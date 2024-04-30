@@ -5,8 +5,9 @@ author: Olivia Larson
 
 ---
 ## The Eclipse! 
-![Eclipse](/assets/images/eclipse.png)
-![Concert](/assets/images/concert.png)
+![Eclipse]({{site.baseurl}}/assets/images/eclipse.png)
+![Concert]({{site.baseurl}}/assets/images/concert.png)
+
 Here are some pictures from the event! Seeing Totality was amazing! The weather got cooler, it appeared like it was evening (even though it was the middle of the afternoon), and everything got so quiet. I'm really glad I was able to be a part of this event. Dr. Renshaw let us play space inspired tunes. 
 
 ## Disco 
