@@ -1,3 +1,4 @@
+---
 title:  "52nd Disco Tray Studios Reflection"
 date:   2024-3-6 10:06:19 -0500
 categories: reflection post
